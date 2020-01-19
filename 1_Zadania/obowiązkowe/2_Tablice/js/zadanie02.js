@@ -1,4 +1,4 @@
-
+//zad 2
 function createArray(number) {
     var newArray = [];
 
@@ -14,6 +14,7 @@ console.log("tablica z liczbami do 1 = " + createArray(1));
 console.log("Test dla liczby ujemnej (powinna być pusta tablica) " + createArray(-6));
 console.log("Test dla zera (powinna być pusta tablica) " + createArray(0));
 
+//zad 3
 function printTable(array) {
     for(let elem of array) {
         console.log(elem);
@@ -22,6 +23,7 @@ function printTable(array) {
 
 printTable(createArray(10));
 
+//zad 4
 function multiply(array) {
     let output = 1;
     for(let elem of array) {
@@ -35,6 +37,7 @@ console.log(multiply([1,2,3,4,5,6,7]));
 console.log(multiply([1,1,1,1]));
 console.log(multiply([2,8,3,7]));
 
+//zad 5
 function getEvenAvarage(array) {
     let length = 0;
     let output = 0;
