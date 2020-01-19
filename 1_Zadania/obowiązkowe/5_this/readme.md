@@ -1,4 +1,4 @@
-# Obiekty &ndash; zadania
+Obiekty &ndash; zadania
 
 > Odpowiedzi wpisz w pliku **app.js**, chyba że treść polecenia wskazuje inaczej.
 Pamiętaj, żeby oddzielać ćwiczenia komentarzami i pisać czytelny, dobrze sformatowany kod.
