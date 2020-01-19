@@ -30,4 +30,10 @@ var animals = [
         ]
     }
 
-]
+];
+
+for (let animal of animals) {
+    for (let index in animal) {
+        console.log(animal[index]);
+    }
+}
